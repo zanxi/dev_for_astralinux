@@ -1,4 +1,4 @@
-download virtual machine vmware Astra Linux https://cloud.mail.ru/public/dVyg/fY3djbmaS
+download virtual machine vmware Astra Linux https://cloud.mail.ru/public/a9xx/DTYCygvde
 fork
 https://astralinux.ru/products/astra-linux-common-edition/
 https://mirror.yandex.ru/astra/stable/orel/iso/orel-2.12.43-14.09.2021_10.29.iso
